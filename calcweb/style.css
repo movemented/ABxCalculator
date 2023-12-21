@@ -1,0 +1,138 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #c5c6d0;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+}
+
+
+
+h1 {
+  margin-bottom: 0;
+  background-color: black;
+  margin-top: 0px;
+  padding-top: 270px;
+
+}
+
+
+footer {
+
+  text-align: center;
+  margin-top: 50px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 70%;
+  height: 20%;
+  font-size: x-large;
+  text-align: center;
+  padding: 25px;
+  margin-bottom: 10px;
+  transform: translateX(-300px);
+}
+
+button {
+  padding: 10px;
+  background-color: #45a049;
+  color: black;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+
+}
+
+button:hover {
+  background-color: lightgreen;
+}
+
+p.footer-text {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #000;
+  text-shadow: 0 0 0.40em #000000;
+  margin: 0;
+  padding: 10px;
+  background-color: #c5c6d0;;
+}
+
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  padding: 1em;
+  margin-top: 50px;
+  box-sizing: content-box;
+}
+
+
+form {
+
+margin-top: 44px;
+
+
+}
+
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -160%);
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: double;
+  top: 1%;
+  position: fixed;
+  font-size: larger;
+  padding-left: 22px;
+  text-align: left;
+}
+
+div {
+  text-align: left;
+  margin: 10px; /* Add margin for spacing */
+}
+
+.image-container {
+  background-color: black;
+  padding: 10px;
+  display: inline-block;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -160%);
+}
